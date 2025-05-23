@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "abdiwahid_md",
   "version": "1.3.5",
-  "description": "Deployment script for CypherX",
+  "description": "Deployment script for abdiwahid_md",
   "main": "index.js",
   "engines": {
       "node": ">= 18.x",
